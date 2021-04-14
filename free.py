@@ -1,16 +1,22 @@
 
-class Vehicle:
-    can_fly = False
-    number_of_weels = 0
+bike_colors = {
+    'Red': ['Yamaha', 'Honda'],
+    'Blue': ['Yamaha', 'Honda', 'Suzuki'],
+    'Green': ['Kawasaki'],
+    'Black': ['Yamaha', 'Honda', 'Suzuki', 'Kawasaki']
+}
+
+def group_by_brand():
+    brands = {}
+    for v in bike_colors.values():
+        for brand in v:
+            brands[brand] = []
+
+    for color in bike_colors:
+        for brand in brands:
+            if brand in bike_colors[color]:
+                brands[brand].append(color)
+    print(brands)
 
 
-class Car(Vehicle):
-    number_of_weels = 4
-
-    def __init__(self, color):
-        self.color = color
-
-
-my_car = Car("red")
-print(my_car.__dict__)
-print(type(my_car).__dict__)
+group_by_brand()

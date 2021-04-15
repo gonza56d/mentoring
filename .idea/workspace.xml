@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a28cd154-e966-42de-9dcc-6de8f21fa3d3" name="Default Changelist" comment="properties">
+      <change afterPath="$PROJECT_DIR$/abstract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borg.py" beforeDir="false" afterPath="$PROJECT_DIR$/borg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mixins.py" beforeDir="false" afterPath="$PROJECT_DIR$/mixins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/properties/properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/properties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +29,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1qnY5sC4IiZHLuhyB6IyV7zmHpg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

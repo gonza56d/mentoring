@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f8cf712-b273-4637-adef-99fd41d2c0c7" name="Default Changelist" comment="properties">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a28cd154-e966-42de-9dcc-6de8f21fa3d3" name="Default Changelist" comment="tuesday" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +17,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1r9CFUmHXAwiGJq8BezRy9VFFB3" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qnY5sC4IiZHLuhyB6IyV7zmHpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,23 +34,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/free2.py" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="free2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="mixins" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mentoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/virtual_environments/mentoring/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/free2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mixins.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,41 +66,34 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f8cf712-b273-4637-adef-99fd41d2c0c7" name="Default Changelist" comment="" />
-      <created>1618378814836</created>
+      <changelist id="a28cd154-e966-42de-9dcc-6de8f21fa3d3" name="Default Changelist" comment="" />
+      <created>1617716641092</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618378814836</updated>
+      <updated>1617716641092</updated>
     </task>
-    <task id="LOCAL-00001" summary="properties">
-      <created>1618380284412</created>
+    <task id="LOCAL-00001" summary="tuesday">
+      <created>1618341609037</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1618380284412</updated>
+      <updated>1618341609037</updated>
     </task>
-    <task id="LOCAL-00002" summary="properties">
-      <created>1618381771141</created>
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1618341674151</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1618381771141</updated>
+      <updated>1618341674151</updated>
     </task>
-    <task id="LOCAL-00003" summary="properties">
-      <created>1618446547557</created>
+    <task id="LOCAL-00003" summary="tuesday">
+      <created>1618345523793</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1618446547557</updated>
+      <updated>1618345523793</updated>
     </task>
-    <task id="LOCAL-00004" summary="properties">
-      <created>1618446604922</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1618446604922</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,10 +106,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="properties" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="tuesday" />
+    <option name="LAST_COMMIT_MESSAGE" value="tuesday" />
   </component>
 </project>

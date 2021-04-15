@@ -36,3 +36,5 @@ print('Last name:', gonza.last)
 
 del gonza.fullname
 print(gonza.email)
+del gonza.first
+print(gonza.first)

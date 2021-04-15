@@ -23,9 +23,9 @@ class Weather(Borg):
 
 print('___ shared state ids ___')
 a = Weather()
-print(id(a._shared_state))
+print(id(a))
 b = Weather()
-print(id(a._shared_state))
+print(id(b))
 
 print('__printing a and b__')
 a.temperature = 20

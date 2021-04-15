@@ -22,9 +22,9 @@ class Vehicle(ABC):
         print(f'{self} just arrived to its destiny!')
 
 
-class RadioMixin:
+class RadioMixin:  # can't mixins inherit ABC?
 
-    def turn_radio_on(self):
+    def turn_radio_on(self):  # doing this because I didn't inherit ABC
         raise MethodNotImplementedException('RadioMixin child classes must implement turn_radio_on method.')
 
     def play_station(self, station: float):

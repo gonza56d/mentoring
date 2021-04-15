@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a28cd154-e966-42de-9dcc-6de8f21fa3d3" name="Default Changelist" comment="tuesday" />
+    <list default="true" id="a28cd154-e966-42de-9dcc-6de8f21fa3d3" name="Default Changelist" comment="properties">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borg.py" beforeDir="false" afterPath="$PROJECT_DIR$/borg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mixins.py" beforeDir="false" afterPath="$PROJECT_DIR$/mixins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties/properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/properties/properties.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
